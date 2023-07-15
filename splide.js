@@ -8,6 +8,11 @@ var splide = new Splide( '.splide', {
     snap: true,
     autoplay: true,
     breakpoints: {
+      1024:{
+        perPage: 2,
+        gap    : '.7rem',
+        padding: '1.5rem',
+      },
       768: {
         perPage: 1,
         gap    : '.7rem',
