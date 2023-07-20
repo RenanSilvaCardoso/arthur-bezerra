@@ -195,7 +195,7 @@ body {
     scale: 1.2;
 }
 
-@media(max-width: 1024px){
+@media(max-width: 1280px){
     #stats .container-stats{
         max-height: 70%;
         min-width: 90%;
